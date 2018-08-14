@@ -1,0 +1,6 @@
+#vim:ft=perl
+
+use 5.014;
+use warnings;
+use strict;
+
